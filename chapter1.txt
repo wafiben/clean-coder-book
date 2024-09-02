@@ -1,0 +1,9 @@
+PROFESSIONALISM
+
+-to be a professional software not only about writing code 
+- be clear  on what you ask for 
+-request should be clear to avoid misundrestund
+-taking responsibility 
+-giving high quality not only functionally 
+-do not make changes on the systme that makkes bugs and effect the system and causes damages
+-continious learning to eveove with skills and improvement high quality code writing
